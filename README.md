@@ -1,8 +1,8 @@
 # Projeto final Resilia
 
 Instalar o node modules: `npm install` nas pastas: <br>
-case2-frontend-main/estudoapp-site
-case2-backend-main
+case2-frontend-main/estudoapp-site <br>
+case2-backend-main <br>
 
 Digitar o comando no terminal, na pasta: case2-frontend-main/estudoapp-site
 `npm i mdb-react-ui-kit`
