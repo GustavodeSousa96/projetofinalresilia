@@ -17,7 +17,6 @@ Executar no terminal:node server.js  <br>
 - Frontend  <br>
 Abrir a pasta "cd case2-frontend-main"  <br>
 Abrir a pasta "cd estudoapp-site"  <br>
- <br>
 Executar no terminal:npm run dev  <br>
 Logar:
 http://localhost:5173/login
