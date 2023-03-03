@@ -1,6 +1,6 @@
 # Projeto final Resilia
 
-Instalar o node modules: `npm install` nas pastas: 
+Instalar o node modules: `npm install` nas pastas: <br>
 case2-frontend-main/estudoapp-site
 case2-backend-main
 
