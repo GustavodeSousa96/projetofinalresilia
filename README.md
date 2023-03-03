@@ -23,6 +23,6 @@ Logar:
 http://localhost:5173/login
 E-mail:admin@case2.com
 Senha: 12345678
-
+ <br>
 http://localhost:5173/admin/eventos
 http://localhost:5173/admin/sobre
