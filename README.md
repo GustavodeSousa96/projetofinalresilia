@@ -5,7 +5,7 @@ case2-frontend-main/estudoapp-site <br>
 case2-backend-main <br>
  <br>
 Digitar o comando no terminal, na pasta: case2-frontend-main/estudoapp-site  <br>
-`npm i mdb-react-ui-kit`  <br>  
+`npm i mdb-react-ui-kit`   
 `npm install react-bootstrap bootstrap`  <br>
 `npm install bootstrap`  <br>
  <br>
